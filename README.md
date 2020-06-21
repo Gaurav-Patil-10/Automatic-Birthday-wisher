@@ -1,0 +1,2 @@
+# Automatic-Birthday-wisher
+in this program the excel data is used to automatically send the emails containing the wishes at the specified date . the program is scheduled in the task scheduler to run exactly at 00.00.00 at the date daily . this program will send the wishes mail to the prescribed mail using the smtp library in python . the safety of the repetition of mails is ensured by the writing of the year in the file
